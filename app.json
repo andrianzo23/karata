@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "karata",
+    "slug": "karata",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "karata"
+}
